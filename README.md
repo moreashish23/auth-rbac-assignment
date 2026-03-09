@@ -93,4 +93,19 @@ npm run dev
 Frontend will start on:
 http://localhost:5173
 ---
+Login Page
+<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/5d74557d-d399-4ccc-88be-a03efe080c13" />
+
+Register Page
+<img width="1920" height="1080" alt="register" src="https://github.com/user-attachments/assets/7037496d-d5c1-44df-aa8a-31ea139bc326" />
+
+Admin Dashboard
+<img width="1920" height="1080" alt="AdminDashboard1" src="https://github.com/user-attachments/assets/5ef54471-4dca-425e-951c-5ca25f541e85" />
+
+User Login
+<img width="1920" height="1080" alt="User" src="https://github.com/user-attachments/assets/03a64c28-00ff-45d4-9610-23fb050a022a" />
+
+
+
+
 
